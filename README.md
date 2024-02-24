@@ -36,9 +36,3 @@ MONGO_URI=your_mongo_uri
 - run `npm run dev` in backend folder
 - run `npm start` in frontend folder
 - open `http://localhost:3000` in your browser
-
-### how to deploy
-
-```
-
-```
